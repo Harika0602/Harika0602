@@ -15,7 +15,7 @@ where clean code meets cloud-native architecture.
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/76ed8a21-4d1c-43c3-bf9a-b63159014abb/public_url" >
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/>
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" title="AWS Certified Developer - Associate"/>
   </a>
 </p>
 
