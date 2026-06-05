@@ -6,7 +6,6 @@ Build. Break. Fix. Ship.
 Turning complex ideas into scalable systems —
 where clean code meets cloud-native architecture.
 
----
 
 ## 🏆 Certifications
 
@@ -19,7 +18,6 @@ where clean code meets cloud-native architecture.
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/>
   </a>
 </p>
----
 
 ## 🛠️ Tech Stack
 
