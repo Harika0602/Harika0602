@@ -44,9 +44,8 @@ where clean code meets cloud-native architecture.
 
 #### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana" width="50" title="Grafana"/>
-  <img src="https://skillicons.dev/icons?i=prometheus" width="50" title="Prometheus"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="50" title="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="50" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
 </p>
 
 #### 🗄️ Databases & Caching
@@ -70,5 +69,5 @@ where clean code meets cloud-native architecture.
 <p>
   <img src="https://skillicons.dev/icons?i=grafana" width="50" title="Grafana"/>
   <img src="https://skillicons.dev/icons?i=prometheus" width="50" title="Prometheus"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="50" title="Kafka"/>
 </p>
----
