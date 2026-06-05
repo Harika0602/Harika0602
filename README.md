@@ -6,9 +6,6 @@ Build. Break. Fix. Ship.
 Turning complex ideas into scalable systems —
 where clean code meets cloud-native architecture.
 
-
-## 🏆 Certifications
-
 ## 🏆 Certifications
 
 <p>
